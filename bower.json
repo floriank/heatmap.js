@@ -1,0 +1,22 @@
+{
+  "name": "heatmap.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/floriank/heatmap.js",
+  "authors": [
+    "Florian Kraft <f.kraft@ewerk.com>"
+  ],
+  "description": "HeatmapJS fork",
+  "main": "src/heatmap.js",
+  "keywords": [
+    "heatmap"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
